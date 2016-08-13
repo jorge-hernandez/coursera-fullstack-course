@@ -1,0 +1,22 @@
+h1{    
+   font-size: 22pt;
+   font-weight: bold;
+}
+h2{    
+   font-size: 16pt;
+   font-weight: bold;
+}
+#nav-list a{
+    text-align: center;
+    background-color: white;
+}
+#nav-list a:hover{
+    background: #E7E7E7;
+}
+#content-box{
+    padding: 20px;
+    width: 80%;
+    float: none;
+    margin: auto;
+    background-color:#E7E7E7;
+}
